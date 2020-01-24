@@ -23,7 +23,7 @@ module.exports = {
 	 * the person who can promote and demote admins,
 	 * and add the bot to groups.
 	 */
-	master: 123456789,
+	master: 919262859,
 
 	/**
 	 * @type {!string}
@@ -46,7 +46,7 @@ module.exports = {
 		 * Chat to send report notifications to.
 		 * Pass false to disable this feature.
 		 */
-		report: -1001148607297,
+		report: false,
 	},
 
 	/**
