@@ -29,7 +29,7 @@ module.exports = {
 	 * @type {!string}
 	 * Telegram Bot token obtained from https://t.me/BotFather.
 	 */
-	token: '',
+	token: '908130497:AAGvmKOXX-EjdwZC-1CS9URc11UhOiWylWM',
 
 
 	chats: {
